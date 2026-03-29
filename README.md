@@ -6,3 +6,9 @@ This project is a basic desktop application designed to manage library operation
 
 The application is intended to demonstrate how a simple library system can be built with a GUI and database integration. It allows users to perform common operations such as adding, viewing, and managing records within a structured interface.
 
+<h2>Technology Stack</h2>
+
+Programming Language: Python
+User Interface: Tkinter
+Database: MySQL
+
