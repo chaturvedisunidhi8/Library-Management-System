@@ -12,3 +12,9 @@ Programming Language: Python
 User Interface: Tkinter
 Database: MySQL
 
+<h2>Functional Description</h2>
+
+The system operates through a graphical interface where users can interact with the application without directly accessing the database. All data entries and updates made through the interface are stored in the MySQL database and reflected in real time.
+
+
+
