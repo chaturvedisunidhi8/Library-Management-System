@@ -16,5 +16,9 @@ Database: MySQL
 
 The system operates through a graphical interface where users can interact with the application without directly accessing the database. All data entries and updates made through the interface are stored in the MySQL database and reflected in real time.
 
+<h2>Conclusion</h2>
+
+This project serves as a foundational example of integrating a graphical user interface with a database in Python. It is suitable for beginners who want to understand the basics of desktop application development and data management systems.
+
 
 
